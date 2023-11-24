@@ -1,5 +1,5 @@
 const testObject = { name: "Bruce Wayne", age: 36, location: "Gotham" }; // use this object to test your functions
-
+module.exports = testObject;
 // Complete the following underscore functions.
 // Reference http://underscorejs.org/ for examples.
 // Check and use MDN as well
